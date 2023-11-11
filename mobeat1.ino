@@ -1,4 +1,5 @@
-// C++ code
+// Simplified version of the suit with 5 flex sensors and three piezos.
+// The piezo emits sound at a frequency that depends on how the sensors are bent.
 //
 
 const int flexPin_1 = A0;			// Pin connected to voltage divider output
